@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.turgay.workfollow.Alarm">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/eText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Alarm"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="75dp"
+            tools:layout_editor_absoluteY="103dp" />
+
+        <Button
+            android:id="@+id/setAlarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="set alarm"
+            tools:layout_editor_absoluteX="157dp"
+            tools:layout_editor_absoluteY="268dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "490163931439",
+    "firebase_url": "https://work-follow.firebaseio.com",
+    "project_id": "work-follow",
+    "storage_bucket": "work-follow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490163931439:android:2775503fdd3c155c",
+        "android_client_info": {
+          "package_name": "com.example.turgay.workfollow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490163931439-cmmstrjt2ldt43tg5cs637030cj19b9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9C6l3iwyQChwuA3u8kwTtkv6F89gA5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

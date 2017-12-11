@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203284079351",
+    "firebase_url": "https://work-follow-28d99.firebaseio.com",
+    "project_id": "work-follow-28d99",
+    "storage_bucket": "work-follow-28d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203284079351:android:2775503fdd3c155c",
+        "android_client_info": {
+          "package_name": "com.example.turgay.workfollow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203284079351-g2h8rgf3fpr236lpk3kelftr6s25apsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.turgay.workfollow",
+            "certificate_hash": "9d94f2ef2d837a52fe26ed448e5fc02321e7ed3c"
+          }
+        },
+        {
+          "client_id": "203284079351-vsvp0o22k3tfs8d2hnfq3lopdpeiqqlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccszBJOdZ5LskKwJJ92A8hNFr-Q76ryc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203284079351-vsvp0o22k3tfs8d2hnfq3lopdpeiqqlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
